@@ -1,5 +1,7 @@
-# 랜덤 속담 프로그램
+# 랜덤 속담 프로그램 with python
 # 보기를 클릭하면 랜덤으로 속담이 나타납니다.
+# 제가 속담을 몇개 외울일이 있었는데 그냥 무작정 암기하는 식으로 외우면 잘 외워지지도 않고 재미도 없어서 조금이라도 재미있고 오래 기억에 남게 하기 위해서 만들게 되었습니다.
+# [참고 사이트] > 유튜브 
 
 quotes = ["Convictions are more dangerous enemies of truth than lies.", "Rather be dead than cool.", "Accept challenges, so that you may feel the exhilaration of victory.",
 "Nothing great in the world has been accomplished without passion.", "If you don't risk anything you risk even more.", "The biggest adventure you can ever take is to live the life of your dreams."]
